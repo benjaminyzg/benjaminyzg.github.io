@@ -43,7 +43,7 @@ I build proprietary, domain-specific machine learning models that are applicatio
 - 😴 Sleeping/Resting
 
 ## 🪧 Commercial Collaboration
-- Open for commercial collaboration in the area of advisory and consultancy work for government; capital market; healthcare and sustainability.
+- Open for commercial collaboration in the area of advisory and consultancy work for government; academia ; healthcare and sustainability.
 - Open to speak for a nominal fee in public international conference and forum.
 
 ## 🗂️ Academic Publications
