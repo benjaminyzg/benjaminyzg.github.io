@@ -29,8 +29,7 @@ I build proprietary, domain-specific machine learning models that are applicatio
 - 🏴󠁳󠁬󠁷󠁿 Area of Interest: Medicine; Computer Science; Healthcare; Capital Market
 
 ## 💡 Interests
-- Machine Learning (ML)
-- Sustainability/Climate Change
+- Machine Learning (ML)/Sustainability/Climate Change
 - Machine Learning Model (i.e. time-series modelling)
 - Full-Stack Development (i.e. Front/Back-End Development)
 - UX/UI Design & Prototyping
