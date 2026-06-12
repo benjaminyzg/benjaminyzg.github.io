@@ -48,10 +48,10 @@ I build proprietary, domain-specific machine learning models that are applicatio
 - Open to speak for a nominal fee in public international conference and forum.
 
 ## 🗂️ Academic Publications
-- to be completed - 
-
+- Stay tuned in for more information for more updates -
+  
 ## 📛 Conferences/Talks
-- to be completed - 
+- Stay tuned in for more information -
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
