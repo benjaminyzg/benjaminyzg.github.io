@@ -66,9 +66,9 @@ I build proprietary, domain-specific machine learning models that are applicatio
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminyzg&show_icons=true&theme=radical)
 
 ## 🌐 How to Reach Me
-- 🌐 Website: www.benjaminy.com
-- 📫 Email: [hello@benjaminy.com](mailto:hello@benjaminy.com)
-- 💼 LinkedIn: [linkedin.com/in/yongbenjamin](https://linkedin.com/in/yongbenjamin)
+- 🌐 Website:   www.benjaminy.com
+- 📫 Email:     [hello@benjaminy.com](mailto:hello@benjaminy.com)
+- 💼 LinkedIn:  [linkedin.com/in/yongbenjamin](https://linkedin.com/in/yongbenjamin)
 - ❓ Confluence: 
 ---
 
