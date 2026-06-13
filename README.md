@@ -6,7 +6,7 @@ I appreciate the innovate use of simple, clean, aesthetic design - to convey my 
 Any resemblance and similiarities is purely coincidental and unintended.
 
 ## ℹ️ Overview
-New to GitHub, and I'm trying to figure how to use this platform correctly and appropriate for both work and testing. I believe that this is a tools that is necessary, or basic requirement for a lot of technology companies, particularly in the software development space doing CI/CD development. Some of respository might be configured and inappropriately configured and implemented -> do let me know via email.
+New to GitHub, and I'm trying to figure how to use this platform correctly and appropriate for both work and testing. I believe that this is a tools that is necessary, or basic requirement for a lot of technology companies, particularly in the software development space doing CI/CD development. Some of respository might be not be properly configured and inappropriately implemented -> do let me know via email, and I will make the necessary amendment and changes whenever it is convenience for me to do so.
 
 ## 📝 Description 
 -Testing in Progress, please bear with us/me- 
