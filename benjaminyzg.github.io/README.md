@@ -1,0 +1,76 @@
+# Hi there, I'm Benjamin 👋
+
+Welcome to my GitHub profile! I'm a passionate developer, always eager to learn and build innovative solutions.
+I appreciate the innovate use of simple, clean, aesthetic design - to convey my individualism ideas in a minimalistic manner. 
+
+Any resemblance and similiarities is purely coincidental and unintended.
+
+## ℹ️ Overview
+New to GitHub, and I'm trying to figure how to use this platform correctly and appropriate for both work and testing. I believe that this is a tools that is necessary, or basic requirement for a lot of technology companies, particularly in the software development space doing CI/CD development. Some of respository might be not be properly configured and inappropriately implemented -> do let me know via email, and I will make the necessary amendment and changes whenever it is convenience for me to do so.
+
+## 📝 Description 
+-Testing in Progress, please bear with us/me- 
+I'm currently a (insert role and function) with (organisation). The domain and fields that I'm currently working on (insert the area of specialized domain and knowledge). On a day to day basis, I does (function & work) in the department of (insert department). My area of interests and specialisation include machine learning; both front-end & back-end web development. 
+
+I build proprietary, domain-specific machine learning models that are application and industry-specific based on the published, scientific journal and model designed for highly sensitive industry and mission-critical application. Some of the constraints include; time-sensitivity; low-latency and very short conceptualisation-to-development-to market timeframe.
+
+## 🛠️ Currently Working On:-
+- Express.js; Next.js
+- Spring Boot; Spring IO
+- Ruby by Rails; Django
+- CSS Tailwind; React; Angular
+- Java; SQL; C; C++; 
+
+## 🚀 About Me
+- 🌱 Currently exploring **ML**; **CI/CD** and **Sustainability** technologies.
+- 👨‍💻 Working on open-source projects and contributing to the developer community.
+- 🤿 Certified Recreational Scuba Diver (Open Water/Advanced)
+- 🎓 Background in Computer Engineering and Software Engineering.
+- 🏴󠁳󠁬󠁷󠁿 Area of Interest: Medicine; Computer Science; Healthcare; Capital Market
+
+## 💡 Interests
+- Machine Learning (ML)/Sustainability/Climate Change
+- Machine Learning Model (i.e. time-series modelling)
+- Full-Stack Development (i.e. Front/Back-End Development)
+- UX/UI Design & Prototyping
+- Open Source Collaboration
+
+## 🚴 Leisure/Hobbies
+- 🛩️ Travelling (i.e. Leisure & Business)
+- 🤿 Scuba Diving (i.e. Recreational)
+- 📖 Reading/Exercising (i.e. Running; Cycling)
+- 🥾 Hiking (i.e. Nature Park)
+- 😴 Sleeping/Resting
+
+## 🪧 Commercial Collaboration
+- Open for commercial collaboration in the area of advisory and consultancy work for government; academia ; healthcare and sustainability.
+- Open to speak for a nominal fee in public international conference and forum.
+
+## 🗂️ Academic Publications
+- Stay tuned in for more information for more updates -
+  
+## 📛 Conferences/Talks
+- Stay tuned in for more information -
+
+## 🛠️ Tools & Technologies
+- **Languages**: Python, JavaScript, TypeScript, Java, C++
+- **Frameworks**: React, Node.js, Django; Rails on Ruby
+- **DevOps**: Docker, Kubernetes, GitHub Actions
+- **Databases**: PostgreSQL, MongoDB, SQLite
+- **Cloud**: AWS, GCP; W&B ; HF
+- **ML Framework**: Tensorflow; Pytorch; Google Colab
+- **Knowledge-Base Management**: Confluence; Wiki; Trello; Jira
+
+## 📈 GitHub Stats
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminyzg&show_icons=true&theme=radical)
+
+## 🌐 How to Reach Me
+- 🌐 Website:   www.benjaminy.com
+- 📫 Email:     [hello@benjaminy.com](mailto:hello@benjaminy.com)
+- 💼 LinkedIn:  [linkedin.com/in/yongbenjamin](https://linkedin.com/in/yongbenjamin)
+- ❓ Confluence: 
+---
+
+⭐️ **Fun Fact**: I'm a coffee enthusiast ☕ and love exploring new cafes and travelling around the world!
+
+Thanks for stopping by! Don't forget to leave a ⭐️ on my repositories if you find them interesting!

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Benjaminyzg's Portfolio Hub</title>
+    
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        // --- 1. DEFINE YOUR INDIVIDUAL PAGES ---
+        function HomePage(){
+            return (
+                <div>
+                    <h2>🏠 Welcome & Overview</h2>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
+                        Hi there, I'm Benjamin 👋 Welcome to my GitHub Profile Hub! 
+                        I am a passionate developer focused on building innovative, low-latency architectures and utilizing structured CI/CD environments for software delivery.
+                    </p>
+                    
+                    <div style={{ marginTop: '20px', padding: '15px', backgroundColor: '#f8f9fa', borderRadius: '6px', borderLeft: '4px solid #0366d6' }}>
+                        <p style={{ margin: 0, fontStyle: 'italic', color: '#555' }}>
+                            "New to GitHub, and I'm trying to figure how to use this platform correctly and appropriately for both work and testing. 
+                            I believe that this is a tool that is necessary, or a basic requirement for a lot of technology companies, 
+                            particularly in the software development space doing CI/CD development. Some of the repositories might be configured 
+                            and inappropriately configured and implemented -sss do let me know via email."
+                        </p>
+                    </div>
+                    <h2> 🛠️ What I do and build </h2>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
+                        I build proprietary, domain-specific machine learning models that are application and industry-specific based on the published, scientific journal and model designed for highly sensitive industry and mission-critical application. Some of the constraints include; time-sensitivity; low-latency and very short conceptualisation-to-development-to market timeframe.
+                    </p>
+
+                    <h2> 🛠️ Currently Working On:- </h2>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
+                       <strong> • </strong> Express.js; Next.js; <br/>
+                       <strong> • </strong> Spring Boot; Spring IO; <br/>
+                       <strong> • </strong> Ruby by Rails; Django; <br/>
+                       <strong> • </strong> CSS Tailwind; React; Angular; <br/>
+                       <strong> • </strong> Java; SQL; C; C++; <br/>
+                    </p>
+                    
+                    <h2>🚴Leisure/Hobbies </h2>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
+                        <strong> • </strong> ✈️ Travelling (i.e. Leisure & Business), <br/>
+                        <strong> • </strong> 🤿 Scuba Diving (i.e. Recreational), <br/>
+                        <strong> • </strong> 📖 Reading/Exercising (i.e. Running; Cycling), <br/>
+                        <strong> • </strong> 🥾 Hiking (i.e. Nature Park), <br/>
+                        <strong> • </strong> 😴 Sleeping/Resting <br/>
+                    </p>
+
+                    <h2> 💡 Interests </h2>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
+                        <strong> • </strong> Machine Learning (ML)<br/>
+                        <strong> • </strong> Sustainability/Climate Change<br/>
+                        <strong> • </strong> Machine Learning Model (i.e. time-series modelling)<br/>
+                        <strong> • </strong> Full-Stack Development (i.e. Front/Back-End Development)<br/>
+                        <strong> • </strong> UX/UI Design & Prototyping<br/>
+                        <strong> • </strong> CI/CD Development & MLOps<br/>
+                        <strong> • </strong> Open Source Collaboration<br/>
+                    </p>
+
+                    <h2> 🛠️ Tools & Technologies </h2>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
+                        • <strong>Languages:</strong> Python, JavaScript, TypeScript, Java, C++ <br/>
+                        • <strong>Frameworks:</strong> React, Node.js, Django; Rails on Ruby <br/>
+                        • <strong>DevOps:</strong> Docker, Kubernetes, GitHub Actions <br/>
+                        • <strong>Databases:</strong> PostgreSQL, MongoDB, SQLite <br/>
+                        • <strong>Cloud:</strong> AWS, GCP; W&B ; HF <br/>
+                        • <strong>ML Framework:</strong> Tensorflow; Pytorch; Google Colab <br/>
+                        • <strong>Knowledge-Base Management:</strong> Confluence; Wiki; Trello; Jira <br/>
+                    </p>
+                    
+                    <h2> 🪧 Commercial Collaboration </h2>
+                    <p>
+                        - Open for commercial collaboration in the area of advisory and consultancy work for government; capital market; healthcare and sustainability.<br/>
+                        - Open to speak for a nominal fee in public international conference and forum.<br/>
+                    </p>
+
+                    <h2>🗂️ Academic Publications </h2>
+                    <p>
+                        - to be completed -
+                    </p>
+                    <h2>📛 Conferences/Talks</h2>
+                    <p>
+                        - to be completed -
+                    </p>
+                </div>
+            );
+        }
+        function AboutPage() {
+    return (
+        <div>
+            <h2>📝 About Me </h2>
+            <p>Here you will find information about my background, experience, and professional roadmap.</p>
+            
+            <h3>Background</h3>
+            <p>
+                Born and raised in Singapore, Benjamin Yong is a computer engineering professional with an adaptive background spanning systems administration, network engineering, business process outsourcing, and public sector digital transformations.
+            </p>
+
+            <h3>Education</h3>
+            <ul>
+                <li>
+                    <strong>Nanyang Technological University, Singapore (2009 - 2013):</strong> Bachelor of Engineering (Computer Engineering) with a Minor in Business.
+                </li>
+            </ul>
+
+            <h3>Professional Experience</h3>
+            <ul>
+                <li>
+                    <strong>Accenture Pte Ltd:</strong> Business and Technology Analyst (Health & Public Service), contributing to the whole-of-government digital transformation roadmap to build fully-digitized customer experiences.
+                </li>
+                <li>
+                    <strong>Trusted Hub Limited:</strong> Business Development Executive focused on digitalizing regulated, critical industry documents in compliance with Evidence Act standards.
+                </li>
+                <li>
+                    <strong>Commerzbank AG (Singapore Branch):</strong> Graduate Trainee in the APAC Network Engineering Team (managing Cisco infrastructure, firewalls, and trading floor telephony) and previously a Business Management Intern ensuring MAS Technology Outsourcing Guideline compliance.
+                </li>
+                <li>
+                    <strong>Topcall Messaging Pte Ltd (inCall System):</strong> Application Systems Engineer.
+                </li>
+            </ul>
+            <h3>Interests & Volunteering</h3>
+            <p>
+                Beyond tech, Benjamin is active in community welfare, including historical volunteer work distributing rations locally and an international deployment with Man Fut Tong to Yangon, Myanmar. His personal hobbies include traveling, scuba diving, hiking, running, and catching up over a latte.
+            </p>
+        </div>
+    );
+}
+        function ProjectsPage(){
+            return (
+                <div>
+                    <h2>🚀 Projects Portfolio</h2>
+                    <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
+                        This section showcases my engineering work, constraint-driven system topologies, and proprietary software builds.
+                    </p>
+                    
+                    <div style={{ background: '#fff', border: '1px solid #e1e4e8', padding: '20px', borderRadius: '6px', marginTop: '20px' }}>
+                        <h3 style={{ marginTop: 0, color: '#0366d6' }}>🔹 Proprietary Domain-Specific Machine Learning Models</h3>
+                        <p style={{ lineHeight: '1.6' }}>
+                            I build proprietary, domain-specific machine learning models that are application and industry-specific 
+                            based on published scientific journals and models designed for highly sensitive industries and mission-critical applications.
+                        </p>
+                        
+                        <h4 style={{ marginBottom: '8px', color: '#24292e' }}>⚡ Engineering Constraints Handled:</h4>
+                        <ul style={{ paddingLeft: '20px', lineHeight: '1.6' }}>
+                            <li><strong>Time-Sensitivity:</strong> Execution constraints mapped to tight data windows.</li>
+                            <li><strong>Low-Latency Architecture:</strong> Performance-optimized runtimes to satisfy strict execution bounds.</li>
+                            <li><strong>Rapid Lifecycle:</strong> Very short conceptualization-to-development-to-market timeframes.</li>
+                        </ul>
+                    </div>
+                </div>
+            );
+        }
+        function PublicationsPage(){
+            return (
+                <div>
+                    <h2>📝 Publications & Research</h2>
+                    <p>Here you will find documentation, academic references, and deep-dives into technical designs.</p>
+                    <ul>
+                        <li><strong>Low-Latency System Architectures (2026):</strong> An analysis of constraint handling under rapid development lifecycles.</li>
+                    </ul>
+                </div>
+            );
+        }
+        function TeachingPage(){
+            return (
+                <div>
+                    <h2>🎓 Teaching & Mentorship</h2>
+                    <p>Documentation and training structures created to guide onboarding developers and teams.</p>
+                    <ul>
+                        <li>CI/CD Workflow Operations — Internal standardizations and testing metrics frameworks.</li>
+                    </ul>
+                </div>
+            );
+        }
+        function ContactPage(){
+            const rowStyle = {
+            display: 'grid',
+            gridTemplateColumns: '120px 1fr', 
+            alignItems: 'start'
+        };
+
+        return (
+            <div>
+            <h2> 🪧 Contact </h2>
+            <p>
+            How can you reach out to me? <br/>
+            - Available for commercial, research and industry collaboration<br/>
+            - Open to speak and to moderate at public international conference and talks<br/>
+            </p>   
+                
+                {/* Mail Section */}
+                <li style={rowStyle}>
+                <strong>Mail:</strong>
+                <div>
+                    <a href="mailto:hello@benjaminy.com">
+                    hello@benjaminy.com
+                    </a>
+                </div>
+                </li>
+                {/* Web Section */}
+                <li style={rowStyle}>
+                <strong>Web:</strong>
+                <div>
+                    <a href="https://www.benjaminy.com" target="_blank" rel="noopener noreferrer">
+                    www.benjaminy.com
+                    </a>
+                </div>
+                </li>
+                {/* GitHub Profile */}
+                <li style={rowStyle}>
+                <strong>GitHub:</strong>
+                <div>
+                    <a href="https://github.com/benjaminyzg" target="_blank" rel="noopener noreferrer">
+                    github.com/benjaminyzg
+                    </a>
+                </div>
+                </li>
+                </div>
+        );
+}
+        // --- 2. MAIN APP COMPONENT (Manages Navigation & State) ---
+        function App() {
+            const [currentPage, setCurrentPage] = React.useState('home');
+
+            const navLinkStyle = (pageName) => ({
+                flex: 1,                      // Forces all buttons to take up identical widths
+                whiteSpace: 'nowrap',         // Prevents text like "Publications" from breaking into two lines
+                textAlign: 'center',          // Centers text inside the expanded button
+                flex: '1 1 calc(33.333% - 10px)', // Tries to fit ~6 items per row evenly
+                minWidth: '120px',            // Prevents buttons from squishing too small
+                textAlign: 'center',   
+                padding: '10px 20px',
+                justifyContent: 'space-between',
+                marginRight: '10px',
+                cursor: 'pointer',
+                backgroundColor: currentPage === pageName ? '#0366d6' : '#f6f8fa',
+                color: currentPage === pageName ? '#fff' : '#24292e',
+                border: '1px solid #e1e4e8',
+                borderRadius: '6px',
+                fontWeight: 'bold',
+                transition: 'all 0.2s'
+            });
+
+            const renderPage = () => {
+                switch(currentPage) {
+                    case 'home': return <HomePage />;
+                    case 'about': return <AboutPage />;
+                    case 'projects': return <ProjectsPage />;
+                    case 'publications': return <PublicationsPage />;
+                    case 'teaching': return <TeachingPage />;
+                    case 'contact': return <ContactPage/>;
+                    default: return <HomePage />;
+                }
+            };
+
+            return (
+                <div style={{ maxWidth: '850px', margin: '40px auto', fontFamily: 'system-ui, -apple-system, sans-serif', padding: '0 20px', color: '#333' }}>
+                    <nav style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '10px', borderBottom: '2px solid #eaecef', 
+                        paddingBottom: '15px', marginBottom: '30px'}}>    
+                    </nav>    
+
+                    <header style={{ marginBottom: '30px' }}>
+                        <h1 style={{ fontSize: '2.2rem', marginBottom: '5px' }}>Benjaminyzg's Github Project Repository</h1>
+                        <p style={{ color: '#666', margin: '0' }}>Centralized Documentation Hub</p>
+                    </header>
+
+                    <nav style={{ borderBottom: '2px solid #eaecef', gap: '10px', flexWrap: 'wrap', paddingBottom: '15px', columnGap: '10px',justifyContent: 'flex-start',gap: '8px',rowGap: '12px',marginBottom: '30px' }}>
+                        <button style={navLinkStyle('home')} onClick={() => setCurrentPage('home')}>Overview</button>
+                        <button style={navLinkStyle('about')} onClick={() => setCurrentPage('about')}>About</button>
+                        <button style={navLinkStyle('publications')} onClick={() => setCurrentPage('publications')}>Publications</button>
+                        <button style={navLinkStyle('teaching')} onClick={() => setCurrentPage('teaching')}>Teaching</button>
+                        <button style={navLinkStyle('projects')} onClick={() => setCurrentPage('projects')}>Projects</button>
+                        <button style={navLinkStyle('contact')} onClick={() => setCurrentPage('contact')}>Contact</button>
+                    </nav>
+
+                    <main style={{ minHeight: '300px', lineHeight: '1.6' }}>
+                        {renderPage()}
+                    </main>
+
+                    <footer style={{ marginTop: '50px', borderTop: '1px solid #eee', paddingTop: '15px', fontSize: '14px', color: '#888' }}>
+                        © 2026 benjaminyzg. Built seamlessly with React.
+                    </footer>
+
+                </div>
+            );
+        }
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>
