@@ -190,7 +190,7 @@ function Contact() {
             <p style={{ margin: '15px 0 5px 0' }}>How can you reach out to me?</p>
       <ul style={{ margin: '0 0 20px 0', paddingLeft: '20px' }}>
         <li>Available for commercial, research and industry collaboration</li>
-        <li>Open to speak and to moderate at public international conference and talks</li>
+        <li>Open to speak and to moderate at public international conference and forums</li>
       </ul>
       <div style={{ display: 'grid', gridTemplateColumns: '120px 1fr', rowGap: '0px', marginTop: '15px' }}>
   <div><strong>Email:</strong></div>
