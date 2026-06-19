@@ -92,7 +92,7 @@
                 </div>
             );
         }
-        function AboutPage() {
+function AboutPage() {
     return (
         <div>
             <h2>📝 About Me </h2>
@@ -132,9 +132,9 @@
         </div>
     );
 }
-        function ProjectsPage(){
-            return (
-                <div>
+
+function ProjectsPage(){
+    return (<div>
                     <h2>🚀 Projects Portfolio</h2>
                     <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
                         This section showcases my engineering work, constraint-driven system topologies, and proprietary software builds.
@@ -155,36 +155,61 @@
                         </ul>
                     </div>
                 </div>
-            );
-        }
-        function PublicationsPage(){
-            return (
-                <div>
-                    <h2>📝 Publications & Research</h2>
-                    <p>Here you will find documentation, academic references, and deep-dives into technical designs.</p>
-                    <ul>
-                        <li><strong>Low-Latency System Architectures (2026):</strong> An analysis of constraint handling under rapid development lifecycles.</li>
-                    </ul>
-                </div>
-            );
-        }
-        function TeachingPage(){
-            return (
-                <div>
-                    <h2>🎓 Teaching & Mentorship</h2>
-                    <p>Documentation and training structures created to guide onboarding developers and teams.</p>
-                    <ul>
-                        <li>CI/CD Workflow Operations — Internal standardizations and testing metrics frameworks.</li>
-                    </ul>
-                </div>
-            );
-        }
-        function ContactPage(){
-            const rowStyle = {
-            display: 'grid',
-            gridTemplateColumns: '120px 1fr', 
-            alignItems: 'start'
-        };
+    );
+}
+
+function PublicationsPage(){
+    return (
+        <div>
+            <h2>📝 Publications & Research</h2>
+            <p>Here you will find documentation, academic references, and deep-dives into technical designs.</p>
+            <ul>
+                <li><strong>Low-Latency System Architectures (2026):</strong> An analysis of constraint handling under rapid development lifecycles.</li>
+            </ul>
+        </div>
+    );
+}
+
+function TeachingPage(){
+    return (
+        <div>
+            <h2>🎓 Teaching & Mentorship</h2>
+            <p>Documentation and training structures created to guide onboarding developers and teams.</p>
+            <ul>
+                <li>CI/CD Workflow Operations — Internal standardizations and testing metrics frameworks.</li>
+            </ul>
+
+            <li class="mb-3">
+                <strong>Developer Onboarding Playbook</strong> — A step-by-step guide covering local environment setup, credential provisioning, and first-week milestones.
+            </li>
+            <li class="mb-3">
+                <strong>System Architecture & Data Flows</strong> — High-level technical walkthroughs of core infrastructure, microservices, and dependency maps.
+            </li>
+
+            <li class="mb-3">
+                <strong>Code Review & PR Guidelines</strong> — A structured framework defining code quality expectations, including templates and reviewer checklists.
+            </li>
+            <li class="mb-3">
+                <strong>Style Guides & Linting</strong> — Standardized configurations and formatting conventions adopted across frontend and backend repositories.
+            </li>
+
+            <li class="mb-3">
+                <strong>Incident Response Runbooks</strong> — Standard operating procedures for triaging production bugs, handling system outages, and managing rollbacks.
+            </li>
+
+            <li class="mb-3">
+                <strong>Engineering Growth Framework</strong> — Frameworks and competencies used during 1-on-1s to help developers track and achieve technical milestones.
+            </li>
+        </div>
+    );
+}
+
+function ContactPage(){
+    const rowStyle = {
+    display: 'grid',
+    gridTemplateColumns: '120px 1fr', 
+    alignItems: 'start'
+};
 
         return (
             <div>
@@ -192,7 +217,7 @@
             <p>
             How can you reach out to me? <br/>
             - Available for commercial, research and industry collaboration<br/>
-            - Open to speak and to moderate at public international conference and talks<br/>
+            - Open to speak and to moderate at public international conference and forums<br/>
             </p>   
                 
                 {/* Mail Section */}
