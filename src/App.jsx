@@ -109,7 +109,6 @@ function About() {
           <strong>Topcall Messaging Pte Ltd (inCall System):</strong> Application Systems Engineer.
         </li>
       </ul>
-
       <h3>Interests & Volunteering</h3>
       <p>
         Beyond tech, Benjamin is active in community welfare, including historical volunteer work distributing rations locally and an international deployment with Man Fut Tong to Yangon, Myanmar. His personal hobbies include traveling, scuba diving, hiking, running, and catching up over a latte.
