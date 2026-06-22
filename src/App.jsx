@@ -70,7 +70,7 @@ function Overview() {
       <h2> 🪧 Commercial Collaboration </h2>
       <p style={{ fontSize: '1.1rem', lineHeight: '1.7' }}>
         - Open for commercial collaboration in the area of advisory and consultancy work for government; capital market; healthcare and sustainability.<br/>
-        - Open to speak for a nominal fee in public international conference and forum.<br/>
+        - Open to speak for a nominal fee in public international conference and forums.<br/>
       </p>
     </div>
   );
