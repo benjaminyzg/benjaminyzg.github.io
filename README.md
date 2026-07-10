@@ -1,16 +1,31 @@
-# React + Vite
+# 🚀 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source code of my personal website and portfolio! This site showcases my projects, skills, and experiences as a developer. 
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [benjaminyzg.github.io](https://benjaminyzg.github.io/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is built using modern front-end tools for a fast, responsive experience:
 
-## Expanding the ESLint configuration
+* **Framework:** React
+* **Build Tool:** Vite
+* **Linting & Code Quality:** ESLint
+* **Deployment:** GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Getting Started
+
+If you'd like to clone this repository and run it locally, follow these steps:
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/benjaminyzg/benjaminyzg.github.io.git](https://github.com/benjaminyzg/benjaminyzg.github.io.git)
+   cd benjaminyzg.github.io
