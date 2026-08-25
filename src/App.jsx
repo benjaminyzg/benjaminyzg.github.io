@@ -138,35 +138,30 @@ function Teaching() {
       <p>
         Documentation and training structures created to guide onboarding developers and teams.
       </p>
-      <ul>
-        <li>
-          <strong>CI/CD Workflow Operations —</strong> Internal standardizations and testing metrics frameworks.
+      
+      <ul className="list-unstyled pl-0">
+        <li className="mb-3">
+          <strong>CI/CD Workflow Operations</strong> – Internal standardizations and testing metrics frameworks.
+        </li>
+        <li className="mb-3">
+          <strong>Developer Onboarding Playbook</strong> – A step-by-step guide covering local environment setup, credential provisioning, and first-week milestones.
+        </li>
+        <li className="mb-3">
+          <strong>System Architecture & Data Flows</strong> – High-level technical walkthroughs of core infrastructure, microservices, and dependency maps.
+        </li>
+        <li className="mb-3">
+          <strong>Code Review & PR Guidelines</strong> – A structured framework defining code quality expectations, including templates and reviewer checklists.
+        </li>
+        <li className="mb-3">
+          <strong>Style Guides & Linting</strong> – Standardized configurations and formatting conventions adopted across frontend and backend repositories.
+        </li>
+        <li className="mb-3">
+          <strong>Incident Response Runbooks</strong> – Standard operating procedures for triaging production bugs, handling system outages, and managing rollbacks.
+        </li>
+        <li className="mb-3">
+          <strong>Engineering Growth Framework</strong> – Frameworks and competencies used during 1-on-1s to help developers track and achieve technical milestones.
         </li>
       </ul>
-
-      <ul class="list-unstyled pl-0">
-            <li class="mb-3">
-                <strong>CI/CD Workflow Operations</strong> — Internal standardizations and testing metrics frameworks.
-            </li>
-            <li class="mb-3">
-                <strong>Developer Onboarding Playbook</strong> — A step-by-step guide covering local environment setup, credential provisioning, and first-week milestones.
-            </li>
-            <li class="mb-3">
-                <strong>System Architecture & Data Flows</strong> — High-level technical walkthroughs of core infrastructure, microservices, and dependency maps.
-            </li>
-            <li class="mb-3">
-                <strong>Code Review & PR Guidelines</strong> — A structured framework defining code quality expectations, including templates and reviewer checklists.
-            </li>
-            <li class="mb-3">
-                <strong>Style Guides & Linting</strong> — Standardized configurations and formatting conventions adopted across frontend and backend repositories.
-            </li>
-            <li class="mb-3">
-                <strong>Incident Response Runbooks</strong> — Standard operating procedures for triaging production bugs, handling system outages, and managing rollbacks.
-            </li>
-            <li class="mb-3">
-                <strong>Engineering Growth Framework</strong> — Frameworks and competencies used during 1-on-1s to help developers track and achieve technical milestones.
-            </li>
-        </ul>
     </div>
   );
 }
