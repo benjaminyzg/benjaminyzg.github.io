@@ -144,7 +144,7 @@ function Teaching() {
         </li>
       </ul>
 
-      <ul class="list-unstyled pl-0">
+      <ul class="list-unstyled pl-5 space-y-3">
             <li class="mb-3">
                 <strong>CI/CD Workflow Operations</strong> — Internal standardizations and testing metrics frameworks.
             </li>
