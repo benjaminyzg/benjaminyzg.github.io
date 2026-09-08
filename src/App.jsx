@@ -133,43 +133,42 @@ function Publications() {
 }
 function Teaching() {
   return (
-    <div style={{ marginTop: '20px' }}>
-      <h2>🎓 Teaching & Mentorship</h2>
+    <div style={{ marginTop: '30px', lineHeight: '1.6' }}>
+      <h2 style={{ color: '#222', borderBottom: '1px solid #eee', paddingBottom: '10px' }}>
+        🎓 Teaching & Mentorship
+      </h2>
+      
       <p>
         Documentation and training structures created to guide onboarding developers and teams.
       </p>
+
       <ul>
         <li>
-          <strong>CI/CD Workflow Operations —</strong> Internal standardizations and testing metrics frameworks.
+          <strong>CI/CD Workflow Operations</strong> – Internal standardizations and testing metrics frameworks.
+        </li>
+        <li>
+          <strong>Developer Onboarding Playbook</strong> – A step-by-step guide covering local environment setup, credential provisioning, and first-week milestones.
+        </li>
+        <li>
+          <strong>System Architecture & Data Flows</strong> – High-level technical walkthroughs of core infrastructure, microservices, and dependency maps.
+        </li>
+        <li>
+          <strong>Code Review & PR Guidelines</strong> – A structured framework defining code quality expectations, including templates and reviewer checklists.
+        </li>
+        <li>
+          <strong>Style Guides & Linting</strong> – Standardized configurations and formatting conventions adopted across frontend and backend repositories.
+        </li>
+        <li>
+          <strong>Incident Response Runbooks</strong> – Standard operating procedures for triaging production bugs, handling system outages, and managing rollbacks.
+        </li>
+        <li>
+          <strong>Engineering Growth Framework</strong> – Frameworks and competencies used during 1-on-1s to help developers track and achieve technical milestones.
         </li>
       </ul>
-
-      <ul class="list-unstyled pl-0">
-            <li class="mb-3">
-                <strong>CI/CD Workflow Operations</strong> — Internal standardizations and testing metrics frameworks.
-            </li>
-            <li class="mb-3">
-                <strong>Developer Onboarding Playbook</strong> — A step-by-step guide covering local environment setup, credential provisioning, and first-week milestones.
-            </li>
-            <li class="mb-3">
-                <strong>System Architecture & Data Flows</strong> — High-level technical walkthroughs of core infrastructure, microservices, and dependency maps.
-            </li>
-            <li class="mb-3">
-                <strong>Code Review & PR Guidelines</strong> — A structured framework defining code quality expectations, including templates and reviewer checklists.
-            </li>
-            <li class="mb-3">
-                <strong>Style Guides & Linting</strong> — Standardized configurations and formatting conventions adopted across frontend and backend repositories.
-            </li>
-            <li class="mb-3">
-                <strong>Incident Response Runbooks</strong> — Standard operating procedures for triaging production bugs, handling system outages, and managing rollbacks.
-            </li>
-            <li class="mb-3">
-                <strong>Engineering Growth Framework</strong> — Frameworks and competencies used during 1-on-1s to help developers track and achieve technical milestones.
-            </li>
-        </ul>
     </div>
   );
 }
+
 function Projects() {
   return (
     <div style={{ marginTop: '20px' }}>
